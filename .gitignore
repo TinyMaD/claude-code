@@ -1,0 +1,4 @@
+# Local agent config
+.codex/
+.claude/
+.agents/
